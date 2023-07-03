@@ -11,3 +11,6 @@
 /MauiTest/obj
 /MauiTest/.vs
 /MauiTest/bin/Debug
+/BlazorHybridApp/.vs
+/BlazorHybridApp/bin/Debug
+/BlazorHybridApp/obj
